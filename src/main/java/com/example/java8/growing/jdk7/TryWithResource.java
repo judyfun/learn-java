@@ -1,4 +1,4 @@
-package java8.growing.jdk7;
+package com.example.java8.growing.jdk7;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

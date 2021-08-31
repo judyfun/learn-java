@@ -1,4 +1,4 @@
-package java8.lambda.lesson2;
+package com.example.java8.lambda.lesson2;
 
 import java.util.UUID;
 import java.util.function.*;

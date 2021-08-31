@@ -1,4 +1,4 @@
-package java8.lambda.lesson1;
+package com.example.java8.lambda.lesson1;
 
 @FunctionalInterface
 public interface ProjectPredicate {

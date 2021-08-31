@@ -1,4 +1,4 @@
-package java8.lambda.lesson3;
+package com.example.java8.lambda.lesson3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

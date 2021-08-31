@@ -1,4 +1,4 @@
-package java8.growing.jdk8;
+package com.example.java8.growing.jdk8;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;

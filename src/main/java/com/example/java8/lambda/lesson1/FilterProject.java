@@ -1,4 +1,4 @@
-package java8.lambda.lesson1;
+package com.example.java8.lambda.lesson1;
 
 import com.example.java8.lambda.lesson1.predicate.LanguagePredicate;
 import com.example.java8.lambda.lesson1.predicate.StarPredicate;

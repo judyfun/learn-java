@@ -1,6 +1,6 @@
 ## refer to
 
-- https://github.com/biezhi/learn-java8/tree/d381976a4e33941dba6c430ba20e1f833ebdc2e8/java8-default-methods/src/main/java/io/github/biezhi/java8/defaultmethods
+- https://github.com/biezhi/learn-com.example.java8/tree/d381976a4e33941dba6c430ba20e1f833ebdc2e8/com.example.java8-default-methods/src/main/java/io/github/biezhi/com.example.java8/defaultmethods
 
 ## 关于 default 关键字
 

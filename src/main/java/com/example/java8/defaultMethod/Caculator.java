@@ -1,4 +1,4 @@
-package java8.defaultMethod;
+package com.example.java8.defaultMethod;
 
 public interface Caculator {
     int add(int a1, int a2);

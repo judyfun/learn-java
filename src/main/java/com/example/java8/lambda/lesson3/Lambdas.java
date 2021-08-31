@@ -1,4 +1,4 @@
-package java8.lambda.lesson3;
+package com.example.java8.lambda.lesson3;
 
 import com.example.java8.lambda.lesson1.Project;
 

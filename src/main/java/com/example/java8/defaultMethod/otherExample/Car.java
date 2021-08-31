@@ -1,4 +1,4 @@
-package java8.defaultMethod.otherExample;
+package com.example.java8.defaultMethod.otherExample;
 
 public class Car implements Vehicle,Alarm {
 

@@ -1,4 +1,4 @@
-package java8.lambda.lesson1.predicate;
+package com.example.java8.lambda.lesson1.predicate;
 
 import com.example.java8.lambda.lesson1.Project;
 import com.example.java8.lambda.lesson1.ProjectPredicate;

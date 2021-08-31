@@ -1,4 +1,4 @@
-package java8.defaultMethod;
+package com.example.java8.defaultMethod;
 
 public class UseCaculator {
 
