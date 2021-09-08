@@ -1,6 +1,9 @@
 ### oracle ref
+
 - [Oracle java8-optional](https://www.oracle.com/technical-resources/articles/java/java8-optional.html)
+
 ### optional api
+
 | Method | Description|
 |:---- :|:---- |
 | empty | 返回一个空的Optional实例，这个Optional的value没有值, 是null |
@@ -17,4 +20,6 @@
 | orElseGet | 如果值存在，则返回这个值，否则返回一个有指定的Supplier接口生成的值 |
 | orElseThrow | 如果值存在，则返回这个值，否则返回 NoSuchElementException |
 
+### 关于map和flatMap 
 
+![image](https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/2175764.gif)
