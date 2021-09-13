@@ -23,3 +23,5 @@
 ### 关于map和flatMap 
 
 ![image](https://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/2175764.gif)
+<br>
+- [Java 8 - Difference between Optional.flatMap and Optional.map](https://stackoverflow.com/questions/30864583/java-8-difference-between-optional-flatmap-and-optional-map)
